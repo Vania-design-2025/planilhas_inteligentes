@@ -4,7 +4,7 @@
 
 Projeto com o objetivo de gerar uma planilha inteligente utilizando o Excel.
 
-<a href="https://github.com/Vania-design-2025/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook_Gest%C3%A3o%20de%20Riscos%20-%20Uma%20Introdu%C3%A7%C3%A3o%20Completa%20e%20Objetiva.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/Vania-design-2025/planilhas_inteligentes/blob/main/Dashboard_Finan%C3%A7as_Pessoais.xlsx" title="View xlsx now"> 📕Clique aqui para ver</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
