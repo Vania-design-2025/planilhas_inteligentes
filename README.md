@@ -8,4 +8,4 @@ Projeto com o objetivo de gerar uma planilha inteligente utilizando o Excel.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/excel)
+- [Excel](https://www.microsoft.com/en/microsoft-365/excel)
